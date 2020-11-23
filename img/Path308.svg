@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 23" width="25" height="23">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-831 -5447L755 -5447L755 260L-831 260Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Resturant Landing" clip-path="url(#cp1)">
+		<g id="ftr">
+			<g id="dwn">
+				<g id="txt">
+					<g id="logo">
+						<g id="app-store-badge">
+							<path id="Path 308" class="shp0" d="M20.53 9.29C20.53 5.67 23.57 3.92 23.68 3.8C21.93 1.35 19.36 1 18.43 0.88C16.21 0.65 13.99 2.17 12.94 2.17C11.77 2.17 10.02 0.88 8.15 0.88C5.7 0.88 3.48 2.29 2.2 4.5C-0.37 8.94 1.5 15.48 3.95 19.1C5.23 20.85 6.63 22.84 8.5 22.72C10.37 22.61 11.07 21.55 13.29 21.55C15.51 21.55 16.09 22.72 18.08 22.72C20.06 22.72 21.35 20.97 22.52 19.22C23.92 17.23 24.5 15.25 24.5 15.13C24.39 15.01 20.53 13.61 20.53 9.29Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

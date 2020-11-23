@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1364 -64L222 -64L222 5643L-1364 5643Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #34bf49 } 
+	</style>
+	<g id="Resturant Landing" clip-path="url(#cp1)">
+		<g id="Header">
+			<g id="Menu">
+				<path id="search" fill-rule="evenodd" class="shp0" d="M20.65 21.43C20.44 21.64 20.15 21.75 19.86 21.75C19.54 21.75 19.25 21.63 19.03 21.4L13.81 15.98C12.33 17.02 10.6 17.57 8.78 17.57C3.94 17.57 0 13.63 0 8.78C0 3.94 3.94 0 8.78 0C13.63 0 17.57 3.94 17.57 8.78C17.57 10.86 16.84 12.85 15.51 14.43L20.68 19.81C21.12 20.27 21.11 21 20.65 21.43ZM2.29 8.78C2.29 12.36 5.2 15.27 8.78 15.27C12.36 15.27 15.27 12.36 15.27 8.78C15.27 5.2 12.36 2.29 8.78 2.29C5.2 2.29 2.29 5.2 2.29 8.78Z" />
+			</g>
+		</g>
+	</g>
+</svg>
